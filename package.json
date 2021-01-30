@@ -1,0 +1,52 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@react-native-community/async-storage": "^1.12.0",
+    "@react-native-community/masked-view": "^0.1.10",
+    "@react-native-community/netinfo": "^5.9.6",
+    "@react-navigation/bottom-tabs": "^5.8.0",
+    "@react-navigation/drawer": "^5.9.0",
+    "@react-navigation/native": "^5.7.3",
+    "@react-navigation/stack": "^5.9.0",
+    "expo": "~38.0.8",
+    "expo-screen-orientation": "^1.1.1",
+    "expo-status-bar": "^1.0.2",
+    "link": "^0.1.5",
+    "material-bread": "^0.2.10",
+    "moment": "^2.29.1",
+    "native-base": "^2.13.13",
+    "react": "~16.11.0",
+    "react-dom": "~16.11.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-38.0.2.tar.gz",
+    "react-native-awesome-alerts": "^1.4.2",
+    "react-native-elements": "^3.0.0-alpha.1",
+    "react-native-gesture-handler": "^1.7.0",
+    "react-native-orientation": "^3.1.3",
+    "react-native-paper": "^4.3.0",
+    "react-native-password-field": "^1.0.8",
+    "react-native-responsive-screen": "^1.4.1",
+    "react-native-restart": "0.0.17",
+    "react-native-screens": "^2.9.0",
+    "react-native-segmented-control-tab": "^3.4.1",
+    "react-native-table-component": "^1.2.1",
+    "react-native-web": "~0.11.7",
+    "react-navigation": "^4.4.0",
+    "react-navigation-material-bottom-tabs": "^2.3.0",
+    "react-navigation-stack": "^2.8.2",
+    "react-navigation-tabs": "^2.9.0",
+    "react-redux": "^7.2.1",
+    "redux": "^4.0.5",
+    "redux-thunk": "^2.3.0"
+  },
+  "devDependencies": {
+    "@babel/core": "~7.9.0"
+  },
+  "private": true
+}
